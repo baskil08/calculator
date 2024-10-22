@@ -33,4 +33,4 @@
   - Мелкие правки.
 
 
-UPDATE BY BASKIL
+UPDATE BY BASKIL IN MINE BRANCH
